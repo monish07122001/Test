@@ -1,3 +1,5 @@
+# https://s3.amazonaws.com/tripdata/index.html
+
 install.packages("mongolite")
 install.packages("tidyverse", dependencies=T)
 install.packages("lubridate") 
